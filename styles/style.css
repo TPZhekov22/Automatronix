@@ -4,75 +4,20 @@ body
     padding: 0;
 }
 
-footer
+.navbar
 {
-    height: 5vw;
-    width: 100vw;
-
-    background-color: rgb(0, 0, 0);
-
-    margin: 0;
-}
-
-.footer_line
-{
-    background-color: rgb(94, 93, 93);
-
-    width: 360px;
-    height: 20px;
-
-    position: relative;
-    top: 1vw;
-    left: 1vw;
-
-    margin: 0;
-}
-
-.footer_email
-{
+    background: linear-gradient( rgb(157, 142, 204),rgb(46, 50, 96));
+    background-attachment: fixed;
     display: flex;
+    align-items: last baseline;
 
-    position: relative;
-    left: 1vw;
-    top: 2vw;
-
-    margin: 0;
+    height: 5vw;
 }
 
-.footer_email_text
+.navbar>a
 {
-    font-size: 20px;
+    text-decoration: none;
+    color: black;
     font-family: "consolas" , sans-serif;
-
-    margin: 0;
-}
-
-.footer_text
-{
     font-size: 2vw;
-    font-family: "consolas" , sans-serif;
-    
-    width: 28vw;
-
-    position: relative;
-    left: 70vw;
-    bottom: 1vw;
-
-    margin: 0;
-    padding: 0;
-}
-
-.footer_text_blue
-{
-    color: blue;
-}
-
-.footer_text_yellow
-{
-    color: yellow;
-}
-
-.footer_text_white
-{
-    color: white;
 }
