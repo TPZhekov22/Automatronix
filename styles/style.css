@@ -2,22 +2,70 @@ body
 {
     margin: 0;
     padding: 0;
+    
+    background: linear-gradient( rgb(73, 69, 97),rgb(44, 44, 65));
+    height: 1153px;
 }
 
 .navbar
 {
-    background: linear-gradient( rgb(157, 142, 204),rgb(46, 50, 96));
-    background-attachment: fixed;
-    display: flex;
     align-items: last baseline;
 
-    height: 5vw;
+    height: 6vw;
 }
 
 .navbar>a
 {
     text-decoration: none;
     color: black;
+
     font-family: "consolas" , sans-serif;
     font-size: 2vw;
+
+    margin-left: 3vw;
+}
+
+#nav_home
+{
+    text-decoration: underline rgb(126, 71, 169) 0.3vw;
+}
+
+.nav_logo
+{
+    height: 4vw;
+    margin-left: 2vw;
+}
+
+.nav_line
+{
+    height: 0.5vw;
+    width: 80vw;
+
+    background-color: aliceblue;
+
+    margin-left: 2vw;
+    margin-top: 0.7vw;
+}
+
+.header
+{
+    justify-content: center;
+    display: flex;
+    
+    font-size: 3vw;
+    font-family: "consolas" , sans-serif;
+}
+
+.main_div
+{
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.main_text
+{
+    font-family: "consolas" , sans-serif;
+    font-size: 2vw;
+
 }
