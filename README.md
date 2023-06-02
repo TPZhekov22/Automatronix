@@ -2,11 +2,10 @@
 <hr>
 
  ## Our Team
- <hr>
  
 ### Tsvetan Zhekov - Scrum Trainer
-#### Miroslav Markov - Designer
-##### Anton Kabakov - Front-End programmer
-###### Alexander Ivanov - Front-End programmer
+### Miroslav Markov - Designer
+### Anton Kabakov - Front-End developer
+### Alexander Ivanov - Front-End developer
 
 
