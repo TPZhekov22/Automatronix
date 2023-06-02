@@ -1,4 +1,4 @@
-# AUTOMATRONIX
+# [Team logo] AUTOMATRONIX
 <hr>
 
  ## Our Team
