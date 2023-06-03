@@ -1,4 +1,4 @@
-#  <img src="pictures/Logo_black_background.png" alt="team logo"> AUTOMATRONIX
+#  <img style="height:100 px; width:100 px;" src="pictures/Logo_black_background.png" alt="team logo"> AUTOMATRONIX
 <hr>
 
  ## Our Team
