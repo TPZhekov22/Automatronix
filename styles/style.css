@@ -4,6 +4,9 @@ body
     padding: 0;
     
     background: linear-gradient( rgb(73, 69, 97),rgb(48, 48, 69));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
     height: 50.4vw;
 }
 
@@ -102,8 +105,10 @@ body
 .main_footer
 {
     height: 7vw;
-    margin-top: 25vw;
     display: flex;
+
+    position: relative;
+    top: 30vw;
 
     background-color: black;
 
