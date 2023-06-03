@@ -14,8 +14,8 @@
 
 ## <img src= "pictures/README.MD_pictures/Document_icon.png" alt="Document icon"> Documentation
 
-#### Documentation<img src= "pictures/README.MD_pictures/Word_logo.png" alt="word logo">
-#### Presentation<img src= "pictures/README.MD_pictures/Powerpoint_logo.png" alt="powerpoint logo">
+#### <img src= "pictures/README.MD_pictures/Word_logo.png" alt="word logo"> Documentation
+#### <img src= "pictures/README.MD_pictures/Powerpoint_logo.png" alt="powerpoint logo"> Presentation
 
 ## <img src= "pictures/README.MD_pictures/laptop_icon.png" alt="laptop icon"> Used Technologies
 
@@ -26,4 +26,4 @@
 #### Used technologies for our project development:
 ##### <img src= "pictures/README.MD_pictures/HTML_icon.png" alt="HTML icon"> <img src= "pictures/README.MD_pictures/CSS_icon.png" alt="CSS icon">
 #### Used tools for our documentation, presentation & communication:
-##### <img src= "pictures/README.MD_pictures/Word_logo_big.png" alt="word logo"> <img src= "pictures/README.MD_pictures/Powerpoint_logo_big.png" alt="powerpoint logo"> <img src= "pictures/README.MD_pictures/Microsoft_teams_logo.png" alt="microsoft teams logo"> <img src= "pictures/README.MD_pictures/Discord_logo.png" alt="discord logo">
+##### <img src= "pictures/README.MD_pictures/Word_logo_big.png" alt="word logo"> <img src= "pictures/README.MD_pictures/Powerpoint_logo_big.png" alt="powerpoint logo"> <img src= "pictures/README.MD_pictures/Microsoft_teams_logo.png" alt="microsoft teams logo">
