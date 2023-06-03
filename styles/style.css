@@ -80,28 +80,6 @@ body
     left: 10vw;
 }
 
-.picture_Mercedes
-{
-    height: 15vw;
-    
-    position: absolute;
-    right: 20vw;
-    top: 25vw;
-
-    border-radius: 3vw;
-}
-
-.picture_Tesla
-{
-    height: 10vw;
-    
-    position: absolute;
-    right: 30vw;
-    top: 20vw;
-
-    border-radius: 3vw;
-}
-
 .main_footer
 {
     height: 7vw;

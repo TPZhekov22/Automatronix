@@ -4,6 +4,9 @@ body
     padding: 0;
     
     background: linear-gradient( rgb(73, 69, 97),rgb(48, 48, 69));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
     height: 50.4vw;
 }
 
@@ -25,7 +28,7 @@ body
     margin-left: 3vw;
 }
 
-#nav_home
+#nav_Idea
 {
     text-decoration: underline rgb(126, 71, 169) 0.3vw;
 }
@@ -72,17 +75,15 @@ body
     font-family: "consolas" , sans-serif;
     color: aliceblue;
     font-size: 3vw;
-
-    position: absolute;
-    left: 10vw;
 }
-
 
 .main_footer
 {
     height: 7vw;
-    margin-top: 25vw;
     display: flex;
+
+    position: relative;
+    top: 30vw;
 
     background-color: black;
 
