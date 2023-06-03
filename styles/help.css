@@ -1,0 +1,126 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    
+    background: linear-gradient( rgb(73, 69, 97),rgb(48, 48, 69));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    height: 50.4vw;
+}
+
+.navbar
+{
+    align-items: last baseline;
+
+    height: 6vw;
+}
+
+.navbar>a
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+    font-family: "consolas" , sans-serif;
+    font-size: 2vw;
+
+    margin-left: 3vw;
+}
+
+#nav_help
+{
+    text-decoration: underline rgb(126, 71, 169) 0.3vw;
+}
+
+.nav_logo
+{
+    height: 4vw;
+    margin-left: 2vw;
+    margin-top: 0.5vw;
+}
+
+.nav_line
+{
+    height: 0.5vw;
+    width: 80vw;
+
+    background-color: rgb(0, 0, 0);
+
+    margin-left: 2vw;
+    margin-top: 0.7vw;
+
+    border-radius: 0.5vw;
+}
+
+.header
+{
+    justify-content: center;
+    display: flex;
+    
+    font-size: 5vw;
+    font-family: "consolas" , sans-serif;
+    color: aliceblue;
+}
+
+.header>p
+{
+    margin: 0;
+    margin-top: 2vw;
+}
+
+.main_div
+{
+    justify-items: center;
+    justify-content: center;
+}
+
+
+
+.main_text
+{
+    font-family: "consolas" , sans-serif;
+    color: aliceblue;
+    font-size: 2.2vw;
+
+    margin-left: 6vw;
+}
+
+.main_text>a
+{
+    text-decoration: none;
+    font-family: "consolas" , sans-serif; 
+
+    color: black;
+}
+
+.main_footer
+{
+    height: 7vw;
+    display: flex;
+
+    position: relative;
+    top: 30vw;
+
+    background-color: black;
+
+}
+
+.main_footer>p
+{
+    font-family: "consolas" , sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.footer_contacts
+{
+    font-size: 1.5vw;
+    margin-left: 4vw;
+}
+
+.footer_text
+{
+    font-size: 2vw;
+
+    margin-left: 45vw;
+}
