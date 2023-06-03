@@ -1,21 +1,21 @@
-#  <img style="height: 10 px; width: 10 px;" src="pictures/Logo_black_background.png" alt="team logo"> AUTOMATRONIX
+#  <img src= "pictures/README.MD_pictures/Logo_black_icon.png" alt="team logo"> AUTOMATRONIX
 <hr>
 
- ## Our Team
+ ## <img src= "pictures/README.MD_pictures/trophy_icon.png" alt="trophy icon"> Our Team
  
 #### Tsvetan Zhekov - Scrum Trainer
 #### Miroslav Markov - Designer
 #### Anton Kabakov - Front-End developer
 #### Alexander Ivanov - Front-End developer
 
-## Our Idea
+## <img src= "pictures/README.MD_pictures/light-bulb_icon.png" alt="light bulb">Our Idea
 
 #### Our idea is to make a fully autonomous driving vehicle with at least level 3 driving automation   
 
-## Documentation
+## <img src= "pictures/README.MD_pictures/Document_icon.png" alt="Document icon"> Documentation
 
-#### Documentation
-#### Presentation
+#### Documentation<img src= "pictures/README.MD_pictures/Word_logo.png" alt="word logo">
+#### Presentation<img src= "pictures/README.MD_pictures/Powerpoint_logo.png" alt="powerpoint logo">
 
 ## Used Technologies
 
