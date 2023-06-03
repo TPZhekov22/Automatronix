@@ -17,13 +17,13 @@
 #### Documentation<img src= "pictures/README.MD_pictures/Word_logo.png" alt="word logo">
 #### Presentation<img src= "pictures/README.MD_pictures/Powerpoint_logo.png" alt="powerpoint logo">
 
-## Used Technologies
+## <img src= "pictures/README.MD_pictures/laptop_icon.png" alt="laptop icon"> Used Technologies
 
 #### Used code editor & collaborative service:
-##### [Visual Studio logo] [Github logo] [Other Git program logo]
-#### Used tools for out overall design:
-##### [Figma logo]
+##### <img src= "pictures/README.MD_pictures/Visual_Studio_Code_logo.png" alt="Visual Studio Code logo"> <img src= "pictures/README.MD_pictures/github_logo.png" alt="github logo"> <img src= "pictures/README.MD_pictures/Git_logo.png" alt="Git logo">
+#### Used tools for our overall design:
+##### <img src= "pictures/README.MD_pictures/Figma_logo.png" alt="figma logo">
 #### Used technologies for our project development:
-##### [HTML logo] [CSS logo]
+##### <img src= "pictures/README.MD_pictures/HTML_icon.png" alt="HTML icon"> <img src= "pictures/README.MD_pictures/CSS_icon.png" alt="CSS icon">
 #### Used tools for our documentation, presentation & communication:
-##### [Word logo] [PowerPoint logo] [?Discord and Microsoft teams logo's?]
+##### <img src= "pictures/README.MD_pictures/Word_logo_big.png" alt="word logo"> <img src= "pictures/README.MD_pictures/Powerpoint_logo_big.png" alt="powerpoint logo"> <img src= "pictures/README.MD_pictures/Microsoft_teams_logo.png" alt="microsoft teams logo"> <img src= "pictures/README.MD_pictures/Discord_logo.png" alt="discord logo">
