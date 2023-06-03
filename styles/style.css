@@ -67,6 +67,33 @@ body
 .main_text
 {
     font-family: "consolas" , sans-serif;
-    font-size: 2vw;
+    font-size: 3vw;
 
+    position: absolute;
+    left: 20vw;
 }
+
+.picture_Mercedes
+{
+    height: 15vw;
+    
+    position: absolute;
+    right: 20vw;
+    top: 25vw;
+
+    border-radius: 3vw;
+}
+
+.picture_Tesla
+{
+    height: 10vw;
+    
+    position: absolute;
+    right: 30vw;
+    top: 20vw;
+
+    border-radius: 3vw;
+}
+
+
+
