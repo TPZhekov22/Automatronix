@@ -8,9 +8,9 @@
 #### Anton Kabakov - Front-End developer
 #### Alexander Ivanov - Front-End developer
 
-## <img src= "pictures/README.MD_pictures/light-bulb_icon.png" alt="light bulb">Our Idea
+## <img src= "pictures/README.MD_pictures/light-bulb_icon.png" alt="light bulb">Our Goal
 
-#### Our idea is to make a fully autonomous driving vehicle with at least level 3 driving automation   
+#### Our goal is to make a fully autonomous driving vehicle with at least level 3 driving automation   
 
 ## <img src= "pictures/README.MD_pictures/Document_icon.png" alt="Document icon"> Documentation
 
