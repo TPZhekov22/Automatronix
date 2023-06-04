@@ -15,7 +15,7 @@
 ## <img src= "pictures/README.MD_pictures/Document_icon.png" alt="Document icon"> Documentation
 
 #### <img src= "pictures/README.MD_pictures/Word_logo.png" alt="word logo"> Documentation
-#### <img src= "pictures/README.MD_pictures/Powerpoint_logo.png" alt="powerpoint logo"> Presentation
+#### <img src= "pictures/README.MD_pictures/Powerpoint_logo.png" alt="powerpoint logo"> <href = "documentation/project_presentation"> Presentation </href>
 
 ## <img src= "pictures/README.MD_pictures/laptop_icon.png" alt="laptop icon"> Used Technologies
 
