@@ -53,7 +53,7 @@ body
     border-radius: 0.5vw;
 }
 
-.header
+header
 {
     justify-content: center;
     display: flex;
@@ -77,7 +77,7 @@ body
     font-size: 3vw;
 }
 
-.main_footer
+footer
 {
     height: 7vw;
     display: flex;
@@ -89,7 +89,7 @@ body
 
 }
 
-.main_footer>p
+footer>p
 {
     font-family: "consolas" , sans-serif;
     color: aliceblue;
