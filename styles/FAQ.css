@@ -12,52 +12,110 @@ body
 
 .navbar
 {
+    display: flex;
+    justify-content: center;
     align-items: last baseline;
-
     height: 6vw;
+    flex-direction: column;
+    align-items: center;
 }
 
-.navbar>a
+.navbar-container{
+    display: flex;
+    width: 100%;
+}
+
+.navbar-subcontainer 
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 75rem;
+    align-items: center;
+    padding-left: 12rem;
+    margin-top: 3rem;
+}
+
+.navbar-subcontainer >a
 {
     text-decoration: none;
     color: rgb(255, 255, 255);
 
     font-family: "consolas" , sans-serif;
-    font-size: 2vw;
-
-    margin-left: 3vw;
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
 }
 
-#nav_FAQ
+#nav_home
 {
-    text-decoration: underline rgb(126, 71, 169) 0.3vw;
+    text-decoration: underline rgb(0, 0, 0) 0.3vw;  
 }
 
 .nav_logo
 {
-    height: 4vw;
-    margin-left: 2vw;
-    margin-top: 0.5vw;
+    height: 5vw;
+    margin-left: 3vw;
+    width: 5vw;
+    margin-top: 2rem;
 }
 
 .nav_line
 {
     height: 0.5vw;
-    width: 80vw;
-
+    width: 75vw;
+    padding-top: 0.5rem;
     background-color: rgb(0, 0, 0);
-
-    margin-left: 2vw;
-    margin-top: 0.7vw;
-
+    margin-top: 1rem;
     border-radius: 0.5vw;
+}
+
+
+header
+{
+    justify-content: center;
+    display: flex;
+    
+    font-size: 5vw;
+    font-family: "consolas" , sans-serif;
+    color: aliceblue;
+}
+
+header>p
+{
+    margin: 0;
+    margin-top: 2vw;
+}
+
+.main_div
+{
+    justify-items: center;
+    justify-content: center;
+}
+
+
+
+.main_text
+{
+    font-family: "consolas" , sans-serif;
+    color: aliceblue;
+    font-size: 2.2vw;
+    margin-top: 10vh;
+    margin-left: 6vw;
+}
+
+.main_text>a
+{
+    text-decoration: none;
+    font-family: "consolas" , sans-serif; 
+
+    color: black;
 }
 
 .header1
 {
     display: flex;
     margin-left: 6vw;
-    
+    margin-top: 10vh;
     font-size: 3vw;
     font-family: "consolas" , sans-serif;
     color: aliceblue;
@@ -66,8 +124,8 @@ body
 .header2
 {
     display: flex;
-    margin-left: 50vw;
-    
+    margin-left: 6vw;
+    margin-top: 10vh;
     font-size: 3vw;
     font-family: "consolas" , sans-serif;
     color: aliceblue;
@@ -77,7 +135,7 @@ body
 {
     display: flex;
     margin-left: 3vw;
-    
+    margin-top: 10vh;
     font-size: 3vw;
     font-family: "consolas" , sans-serif;
     color: aliceblue; 
@@ -93,7 +151,7 @@ body
 {
     font-family: "consolas" , sans-serif;
     color: aliceblue;
-    font-size: 2.2vw;
+    font-size: 2.3vw;
 
     margin-left: 6vw;
 }
@@ -110,11 +168,11 @@ body
 
 footer
 {
-    height: 7vw;
+    height: 9vw;
     display: flex;
 
     position: relative;
-    top: 20vw;
+    top: 30vw;
 
     background-color: black;
 
@@ -123,12 +181,12 @@ footer
 footer>p
 {
     font-family: "consolas" , sans-serif;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
 }
 
 .footer_contacts
 {
-    font-size: 1.5vw;
+    font-size: 2vw;
     margin-left: 4vw;
 }
 
@@ -136,5 +194,33 @@ footer>p
 {
     font-size: 2vw;
 
-    margin-left: 45vw;
+    margin-left: 15vw;
+}
+
+#TeamOfService
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    font-size: 2vw;
+    margin-left: 10vw;
+
+    font-family: "consolas" , sans-serif;
+    color: aliceblue;
+    
+}
+
+#PrivacyPolicy
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+    font-size: 2vw;
+    margin-left: 5vw;
+   
+    font-family: "consolas" , sans-serif;
+    color: aliceblue;
+
 }
