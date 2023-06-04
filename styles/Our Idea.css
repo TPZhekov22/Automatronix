@@ -84,6 +84,9 @@ header
     justify-items: center;
     justify-content: center;
     display: flex;
+
+    margin-left: 3vw;
+    margin-right: 3vw;
 }
 
 .main_text
