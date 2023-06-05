@@ -26,4 +26,4 @@
 #### Used technologies for our project development:
 ##### <img src= "images/README.MD_images/HTML_icon.png" alt="HTML icon"> <img src= "images/README.MD_images/CSS_icon.png" alt="CSS icon">
 #### Used tools for our documentation, presentation & communication:
-##### <img src= "images/README.MD_images/Word_logo_big.png" alt="word logo"> <img src= "images/README.MD_images/Powerpoint_logo_big.png" alt="powerpoint logo"> <img src= "pictures/README.MD_images/Microsoft_teams_logo.png" alt="microsoft teams logo">
+##### <img src= "images/README.MD_images/Word_logo_big.png" alt="word logo"> <img src= "images/README.MD_images/Powerpoint_logo_big.png" alt="powerpoint logo"> <img src= "images/README.MD_images/Microsoft_teams_logo.png" alt="microsoft teams logo">
