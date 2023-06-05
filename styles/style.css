@@ -47,7 +47,7 @@ body
     padding-bottom: 1rem;
 }
 
-#nav_home
+#nav_underline
 {
     text-decoration: underline rgb(0, 0, 0) 0.3vw;  
 }
@@ -100,13 +100,31 @@ header
     width: 20vw;
 }
 
+#image1
+{
+    height: 18vw;
+    border-radius: 2vw;
+
+    margin-left: 40vw;
+}
+
+#image2
+{
+    height: 18vw;
+    border-radius: 2vw;
+
+    margin-left: -10vw;
+    margin-top: 10vw;
+}
+
+
 footer
 {
     height: 9vw;
     display: flex;
 
     position: relative;
-    top: 25vw;
+    top: 5vw;
 
     background-color: black;
 
