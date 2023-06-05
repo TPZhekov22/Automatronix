@@ -99,13 +99,43 @@ header
     width: 20vw;
 }
 
+#Scrum
+{
+  margin-left: 3rem;
+  margin-top: 32rem;  
+  font-size: 1.5rem;
+}
+
+#Designer
+{
+  margin-left: 8rem;
+  margin-top: 32rem;
+  font-size: 1.5rem;  
+}
+
+#Developer1
+{
+  margin-left: 8rem;
+  margin-top: 32rem;
+  font-size: 1.5rem;  
+}   
+
+#Developer2
+{
+  margin-right: 3rem;
+  margin-left: 8rem;
+  margin-top: 32rem;
+  font-size: 1.5rem;  
+}
+
+
 footer
 {
     height: 9vw;
     display: flex;
 
     position: relative;
-    top: 25vw;
+    top: 10rem;
 
     background-color: black;
 
