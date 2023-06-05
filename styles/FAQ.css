@@ -114,7 +114,7 @@ header>p
 .header1
 {
     display: flex;
-    margin-left: 6vw;
+    margin-left: 30vw;
     margin-top: 10vh;
     font-size: 3vw;
     font-family: "consolas" , sans-serif;
@@ -124,7 +124,7 @@ header>p
 .header2
 {
     display: flex;
-    margin-left: 6vw;
+    margin-left: -40vw;
     margin-top: 10vh;
     font-size: 3vw;
     font-family: "consolas" , sans-serif;
