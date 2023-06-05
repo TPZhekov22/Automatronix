@@ -3,7 +3,7 @@ body
     margin: 0;
     padding: 0;
     
-    background: linear-gradient( rgb(73, 69, 97),rgb(48, 48, 69));
+    background: linear-gradient( rgb(93, 88, 119),rgb(48, 48, 69));
     background-repeat: no-repeat;
     background-attachment: fixed;
     
@@ -128,32 +128,4 @@ footer>p
     font-size: 2vw;
 
     margin-left: 20vw;
-}
-
-#TeamOfService
-{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-
-    font-size: 2vw;
-    margin-left: 10vw;
-
-    font-family: "consolas" , sans-serif;
-    color: aliceblue;
-    
-}
-
-#PrivacyPolicy
-{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    
-    font-size: 2vw;
-    margin-left: 5vw;
-   
-    font-family: "consolas" , sans-serif;
-    color: aliceblue;
-
 }

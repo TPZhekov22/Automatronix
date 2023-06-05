@@ -3,7 +3,7 @@ body
     margin: 0;
     padding: 0;
     
-    background: linear-gradient( rgb(73, 69, 97),rgb(48, 48, 69));
+    background: linear-gradient( rgb(93, 88, 119),rgb(48, 48, 69));
     background-repeat: no-repeat;
     background-attachment: fixed;
     
@@ -111,7 +111,7 @@ header>p
     color: black;
 }
 
-.header1
+h1
 {
     display: flex;
     margin-left: 30vw;
@@ -121,7 +121,7 @@ header>p
     color: aliceblue;
 }
 
-.header2
+h2
 {
     display: flex;
     margin-left: -40vw;
@@ -131,7 +131,7 @@ header>p
     color: aliceblue;
 }
 
-.header3
+h3
 {
     display: flex;
     margin-left: 3vw;
@@ -195,32 +195,4 @@ footer>p
     font-size: 2vw;
 
     margin-left: 15vw;
-}
-
-#TeamOfService
-{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-
-    font-size: 2vw;
-    margin-left: 10vw;
-
-    font-family: "consolas" , sans-serif;
-    color: aliceblue;
-    
-}
-
-#PrivacyPolicy
-{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    
-    font-size: 2vw;
-    margin-left: 5vw;
-   
-    font-family: "consolas" , sans-serif;
-    color: aliceblue;
-
 }
