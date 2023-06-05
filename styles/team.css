@@ -192,6 +192,6 @@ footer>p
 .footer_text
 {
     font-size: 2vw;
-
-    margin-left: 40vw;
+    padding-top: 1.5rem;
+    margin-left: 42vw;
 }
