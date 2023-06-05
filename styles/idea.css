@@ -6,8 +6,7 @@ body
     background: linear-gradient( rgb(93, 88, 119),rgb(48, 48, 69));
     background-repeat: no-repeat;
     background-attachment: fixed;
-    
-    height: 50.4vw;
+
 }
 
 .navbar
@@ -63,8 +62,10 @@ body
 {
     height: 0.5vw;
     width: 75vw;
-    padding-top: 0.5rem;
+
     background-color: rgb(0, 0, 0);
+    
+    padding-top: 0.5rem;
     margin-top: 1rem;
     border-radius: 0.5vw;
 }
@@ -77,13 +78,14 @@ header
     font-size: 7rem;
     font-family: "consolas" , sans-serif;
     color: aliceblue;
+
+    margin-top: 3vw;
 }
 
 .main_div
 {
     justify-items: center;
     justify-content: center;
-    display: flex;
 
     margin-left: 3vw;
     margin-right: 3vw;
@@ -100,13 +102,22 @@ header
 
 }
 
+#image
+{
+    height: 35vw;
+    border-radius: 3vw;
+
+    margin-top: 20vw;
+    margin-left: 10vw;
+}
+
 footer
 {
     height: 9vw;
     display: flex;
 
     position: relative;
-    top: 50rem;
+    top: 10rem;
 
     background-color: black;
 
@@ -128,5 +139,5 @@ footer>p
 {
     font-size: 2vw;
 
-    margin-left: 20vw;
+    margin-left: 40vw;
 }
