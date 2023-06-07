@@ -3,7 +3,7 @@ body
     margin: 0;
     padding: 0;
     
-    background: linear-gradient( rgb(93, 88, 119),rgb(48, 48, 69));
+    background: linear-gradient( rgb(111, 88, 119),rgb(48, 48, 69));
     background-repeat: no-repeat;
     background-attachment: fixed;
     
@@ -51,6 +51,12 @@ body
     padding-bottom: 1rem;
 }
 /* Give the text on the navbar color, size and style. */
+
+.navbar-subcontainer >a:hover
+{
+    background-color: rgb(91, 68, 113);
+    transition: 0.7s;
+}
 
 #nav_underline
 {
@@ -168,7 +174,7 @@ h3
 }
 /* Give the the "main_text" color, style, size and position him. */
 
-.div_line
+.hr_line
 {
     margin-left: 5vw;
 
@@ -177,7 +183,7 @@ h3
 
     background-color: white;
 }
-/* Give the the "div_line" position, size and background color. */
+/* Give the the "hr_line" position, size and background color. */
 
 footer
 {

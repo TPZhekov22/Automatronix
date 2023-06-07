@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100&display=swap');
 body
 {
     margin: 0;
     padding: 0;
     
-    background: linear-gradient( rgb(93, 88, 119),rgb(48, 48, 69));
+    background: linear-gradient( rgb(111, 88, 119),rgb(48, 48, 69));
     background-repeat: no-repeat;
     background-attachment: fixed;
      
@@ -48,8 +49,16 @@ body
     font-family: "consolas" , sans-serif;
     font-size: 2.5rem;
     padding-bottom: 1rem;
+
+    border-radius: 0.6vw;
 }
 /* Give the text on the navbar color, size and style. */
+
+.navbar-subcontainer >a:hover
+{
+    background-color: rgb(91, 68, 113);
+    transition: 0.7s;
+}
 
 #nav_underline
 {
@@ -83,7 +92,7 @@ header
     display: flex;
     
     font-size: 7rem;
-    font-family: "consolas" , sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     color: aliceblue;
 }
 /* Give the header size, style, color and position him. */
@@ -117,6 +126,7 @@ form
 
 .form_text
 {
+    font-family: 'Noto Sans', sans-serif;
     font-size: 2rem;
 }
 /* Give the "form_text" size. */
@@ -154,6 +164,13 @@ form
     height: 10rem;
 }
 /* Position the text. */
+
+#submit:hover
+{
+    background-color: rgb(118, 112, 249);
+    transition: 0.7s;
+}
+/* Give the submit color, background color when you hover. */
 
 #submit
 {
