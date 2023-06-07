@@ -8,6 +8,7 @@ body
     background-attachment: fixed;
 
 }
+/* Add color to the background. */ 
 
 .navbar
 {
@@ -18,11 +19,14 @@ body
     flex-direction: column;
     align-items: center;
 }
+/* Position the navbar to the centert on the top. */
+
 
 .navbar-container{
     display: flex;
     width: 100%;
 }
+/* Give the "navbar-container" position. */
 
 .navbar-subcontainer 
 {
@@ -34,6 +38,8 @@ body
     padding-left: 12rem;
     margin-top: 3rem;
 }
+/* Center and make space between the text on the navbar. */
+
 
 .navbar-subcontainer >a
 {
@@ -44,11 +50,13 @@ body
     font-size: 2.5rem;
     padding-bottom: 1rem;
 }
+/* Give the text on the navbar color, size and style. */
 
 #nav_underline
 {
     text-decoration: underline rgb(0, 0, 0) 0.3vw;  
 }
+/* Give the underline color. */
 
 .nav_logo
 {
@@ -57,6 +65,7 @@ body
     width: 5vw;
     margin-top: 2rem;
 }
+/* Position the logo in the top left corner and give him size. */
 
 .nav_line
 {
@@ -69,6 +78,7 @@ body
     margin-top: 1rem;
     border-radius: 0.5vw;
 }
+/* Give the line color, positioning and size. */
 
 header
 {
@@ -81,6 +91,7 @@ header
 
     margin-top: 3vw;
 }
+/* Give the header size, style, color and position him. */
 
 .main_div
 {
@@ -90,6 +101,8 @@ header
     margin-left: 3vw;
     margin-right: 3vw;
 }
+/* Give the main_div position him. */
+
 
 .main_text
 {
@@ -101,6 +114,7 @@ header
     left: 10vw;
 
 }
+/* Give the main_text size, style, color. */
 
 #image
 {
@@ -110,6 +124,8 @@ header
     margin-top: 20vw;
     margin-left: 10vw;
 }
+/* Give the image size and position. */
+
 
 footer
 {
@@ -122,18 +138,26 @@ footer
     background-color: black;
 
 }
+/* Give the footer position, size and background color. */
+
 
 footer>p
 {
     font-family: "consolas" , sans-serif;
     color: aliceblue;
 }
+/* Give the text on the footer color and style. */
+
+
 
 .footer_contacts
 {
     font-size: 2vw;
     margin-left: 4vw;
 }
+/* Give the "contacts" on the footer size and position. */
+
+
 
 .footer_text
 {
@@ -141,3 +165,4 @@ footer>p
     padding-top: 1.5rem;
     margin-left: 42vw;
 }
+/* Give the "text" on the footer size and position. */

@@ -9,6 +9,7 @@ body
     
     height: 50.4vw;
 }
+/* Add color to the background. */ 
 
 .navbar
 {
@@ -19,11 +20,14 @@ body
     flex-direction: column;
     align-items: center;
 }
+/* Position the navbar to the centert on the top. */
 
-.navbar-container{
+.navbar-container
+{
     display: flex;
     width: 100%;
 }
+/* Give the "navbar-container" position. */
 
 .navbar-subcontainer 
 {
@@ -35,6 +39,8 @@ body
     padding-left: 12rem;
     margin-top: 3rem;
 }
+/* Center and make space between the text on the navbar. */
+
 
 .navbar-subcontainer >a
 {
@@ -45,11 +51,13 @@ body
     font-size: 2.5rem;
     padding-bottom: 1rem;
 }
+/* Give the text on the navbar color, size and style. */
 
 #nav_underline
 {
     text-decoration: underline rgb(0, 0, 0) 0.3vw;  
 }
+/* Give the underline color. */
 
 .nav_logo
 {
@@ -58,6 +66,7 @@ body
     width: 5vw;
     margin-top: 2rem;
 }
+/* Position the logo in the top left corner and give him size. */
 
 .nav_line
 {
@@ -68,6 +77,7 @@ body
     margin-top: 1rem;
     border-radius: 0.5vw;
 }
+/* Give the line background color, positioning, size and circle it. */
 
 header
 {
@@ -78,6 +88,7 @@ header
     font-family: "consolas" , sans-serif;
     color: aliceblue;
 }
+/* Give the header size, style, color and position him. */
 
 .main_div
 {
@@ -85,6 +96,7 @@ header
     justify-content: center;
     display: flex;
 }
+/* Give the "main_div" position him. */
 
 .main_text
 {
@@ -98,6 +110,7 @@ header
     height: 2vw;
     width: 20vw;
 }
+/* Give the "main_text" size, style, color and position. */
 
 #Scrum
 {
@@ -107,6 +120,7 @@ header
   font-size: 1.55rem;
   color: aliceblue;
 }
+/* Give the "Scrum" size, color and position. */
 
 #Designer
 {
@@ -116,6 +130,7 @@ header
   color: aliceblue;
   font-size: 1.55rem;  
 }
+/* Give the "Designer" size, color and position. */
 
 #Developer1
 {
@@ -125,6 +140,7 @@ header
   color: aliceblue;
   font-size: 1.55rem;  
 }   
+/* Give the "Developer1" size, color and position. */
 
 #Developer2
 {
@@ -135,6 +151,7 @@ header
   color: aliceblue;
   font-size: 1.55rem;  
 }
+/* Give the "Developer2" size, color and position. */
 
 #Ceco
 {
@@ -142,6 +159,7 @@ header
     height: 0.1rem;
 
 }
+/* Give the "Ceco" position. */
 
 #Miro
 {
@@ -149,6 +167,7 @@ header
     height: 0.1rem;
 
 }
+/* Give the "Miro" position. */
 
 #Toni
 {
@@ -156,6 +175,7 @@ header
     height: 0.1rem;
 
 }
+/* Give the "Toni" position. */
 
 #Sashko
 {
@@ -164,6 +184,7 @@ header
     height: 16rem;
 
 }
+/* Give the "Sashko" position. */
 
 footer
 {
@@ -176,18 +197,24 @@ footer
     background-color: black;
 
 }
+/* Give the footer position, size and background color. */
+
 
 footer>p
 {
     font-family: "consolas" , sans-serif;
     color: aliceblue;
 }
+/* Give the text on the footer color and style. */
+
 
 .footer_contacts
 {
     font-size: 2vw;
     margin-left: 4vw;
 }
+/* Give the "contacts" on the footer size and position. */
+
 
 .footer_text
 {
@@ -195,3 +222,4 @@ footer>p
     padding-top: 1.5rem;
     margin-left: 42vw;
 }
+/* Give the "text" on the footer size and position. */
