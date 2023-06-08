@@ -5,10 +5,10 @@ body
     margin: 0;
     padding: 0;
     
-    background: linear-gradient( rgb(111, 88, 119),rgb(48, 48, 69));
+    background-color: rgb(21, 21, 21);
     background-repeat: no-repeat;
     background-attachment: fixed;
-     
+    
     height: 50.4vw;
 }
 /* Add color to the background. */ 
@@ -57,13 +57,13 @@ body
 
 .navbar-subcontainer >a:hover
 {
-    background-color: rgb(91, 68, 113);
+    background-color: rgb(154, 154, 154);
     transition: 0.7s;
 }
 
 #nav_underline
 {
-    text-decoration: underline rgb(0, 0, 0) 0.3vw;  
+    text-decoration: underline aliceblue;
 }
 /* Give the underline color. */
 
@@ -81,7 +81,9 @@ body
     height: 0.5vw;
     width: 75vw;
     padding-top: 0.5rem;
-    background-color: rgb(0, 0, 0);
+
+    background-color: rgb(255, 255, 255);
+   
     margin-top: 1rem;
     border-radius: 0.5vw;
 }
@@ -94,7 +96,7 @@ header
     
     font-size: 7rem;
     font-family: 'Noto Sans', sans-serif;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 /* Give the header size, style, color and position it. */
 
@@ -103,7 +105,7 @@ header
     justify-items: center;
     justify-content: center;
 
-    background-color: rgb(93, 93, 110);
+    background-color:rgb(255, 255, 255);
 
     height: 35vw;
     width: 70vw;
@@ -127,7 +129,7 @@ form
 
 .form_text
 {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: "consolas" , sans-serif;
     font-size: 2rem;
 }
 /* Give the "form_text" size. */
@@ -149,7 +151,7 @@ form
     font-family: "consolas" , sans-serif;
     color: rgb(0, 0, 0);
     font-size: 3rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
 }
 /* Position the input, give it size and circle it. */
 
@@ -168,7 +170,7 @@ form
 
 #submit:hover
 {
-    background-color: rgb(118, 112, 249);
+    background-color: rgb(154, 154, 154);
     transition: 0.7s;
 }
 /* Give the submit color, background color when you hover. */
@@ -183,7 +185,7 @@ form
     font-size: 1vw;
 
     color: rgb(0, 0, 0);
-    background-color: rgb(116, 113, 184);
+    background-color: a;
 }
 /* Give the submit color, background color, style, size, position and circle it. */
 

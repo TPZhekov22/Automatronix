@@ -3,10 +3,11 @@ body
     margin: 0;
     padding: 0;
     
-    background: linear-gradient( rgb(111, 88, 119),rgb(48, 48, 69));
+    background-color: rgb(21, 21, 21);
     background-repeat: no-repeat;
     background-attachment: fixed;
-
+    
+    height: 50.4vw;
 }
 /* Add color to the background. */ 
 
@@ -55,13 +56,13 @@ body
 
 .navbar-subcontainer >a:hover
 {
-    background-color: rgb(91, 68, 113);
+    background-color: rgb(154, 154, 154);
     transition: 0.7s;
 }
 
 #nav_underline
 {
-    text-decoration: underline rgb(0, 0, 0) 0.3vw;  
+    text-decoration: underline aliceblue;
 }
 /* Give the underline color. */
 
@@ -79,7 +80,7 @@ body
     height: 0.5vw;
     width: 75vw;
 
-    background-color: rgb(0, 0, 0);
+    background-color: aliceblue;
     
     padding-top: 0.5rem;
     margin-top: 1rem;
@@ -128,8 +129,19 @@ header
     height: 25vw;
     border-radius: 3vw;
 
-    margin-top: 20vw;
-    margin-left: 10vw;
+    margin-top: 10rem;
+    margin-left: 80rem;
+}
+/* Give the image size and position. */
+
+#image1
+{
+    height: 25vw;
+    border-radius: 3vw;
+
+    margin-top: 20rem;
+    margin-left: 10rem;
+    padding-right: 2rem;
 }
 /* Give the image size and position. */
 

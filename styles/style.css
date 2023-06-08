@@ -3,7 +3,7 @@ body
     margin: 0;
     padding: 0;
     
-    background: linear-gradient( rgb(111, 88, 119),rgb(48, 48, 69));
+    background-color: rgb(21, 21, 21);
     background-repeat: no-repeat;
     background-attachment: fixed;
     
@@ -58,13 +58,13 @@ body
 
 .navbar-subcontainer >a:hover
 {
-    background-color: rgb(91, 68, 113);
+    background-color: rgb(154, 154, 154);
     transition: 0.7s;
 }
 
 #nav_underline
 {
-    text-decoration: underline rgb(0, 0, 0) 0.3vw;  
+    text-decoration: underline aliceblue;  
 }
 /* Give the underline color. */
 
@@ -83,7 +83,7 @@ body
     width: 75vw;
     padding-top: 0.5rem;
 
-    background-color: rgb(0, 0, 0);
+    background-color: aliceblue;
     
     margin-top: 1rem;
     border-radius: 0.5vw;
@@ -113,42 +113,66 @@ header
 {
     font-family: "consolas" , sans-serif;
     color: aliceblue;
-    font-size: 3vw;
+    font-size: 2rem;
 
     position: absolute;
-    left: 10vw;
-
+    left: 30rem;
+    top: 20rem;
     height: 2vw;
-    width: 20vw;
+    width: 200rem;
 }
 /* Give the "main_text" size, style, color. */
 
 #image1
 {
-    height: 18vw;
+    margin-top: 5rem;
+    height: 23rem;
     border-radius: 2vw;
-
-    margin-left: 28vw;
+    margin-left: 1rem;
+    margin-right: 0.1rem;
 }
 /* Give the "image1" position and circle it. */
 
 #image2
 {
-    height: 18vw;
+    margin-left: 30rem;
+    margin-top: 41rem;
+    height: 23rem;
     border-radius: 2vw;
-
-    margin-left: -10vw;
-    margin-top: 10vw;
 }
 /* Give the "image2" position and circle it. */
 
+#TextForCars1
+{
+    display: flex;
+    padding-left: 6rem;
+    padding-right: 50rem;    
+    margin-top: 42rem;
+    font-size: 3rem;
+    position: absolute;
+    color: aliceblue;
+
+}
+/* Give the "TextForCars1" position, size and color. */
+
+#TextForCars2
+{
+    display: flex;
+    padding-left: 50rem;
+    margin-top: 4rem;
+    font-size: 3rem;
+    position: absolute;
+    color: aliceblue;
+}
+/* Give the "TextForCars2" position, size and color. */
+
 footer
 {
-    height: 9vw;
+    height: 10rem;
     display: flex;
 
     position: relative;
-    top: 5vw;
+    top: 10rem;
 
     background-color: black;
 
