@@ -72,6 +72,9 @@ body
     margin-left: 3vw;
     width: 5vw;
     margin-top: 2rem;
+
+    background-color: aliceblue;
+    border-radius: 2.2vw;
 }
 /* Position the logo in the top left corner and give it size. */
 
