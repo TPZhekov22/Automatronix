@@ -126,22 +126,22 @@ header
 
 #image
 {
-    height: 25vw;
+    height: 20rem;
     border-radius: 3vw;
 
     margin-top: 10rem;
-    margin-left: 80rem;
+    margin-left: 15rem;
 }
 /* Give the image size and position. */
 
 #image1
 {
-    height: 25vw;
+    height: 20rem;
     border-radius: 3vw;
 
-    margin-top: 20rem;
     margin-left: 10rem;
     padding-right: 2rem;
+    margin-top: 22rem;
 }
 /* Give the image size and position. */
 
@@ -152,7 +152,7 @@ footer
     display: flex;
 
     position: relative;
-    top: 10rem;
+    top: 8rem;
 
     background-color: black;
 
