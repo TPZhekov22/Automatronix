@@ -1,4 +1,4 @@
-#  <img src= "images/README.MD_images/Logo_black_icon.png" alt="team logo"> AUTOMATRONIX
+#  <img src= "images/README.MD_images/logo_white.png" alt="team logo"> AUTOMATRONIX
 <hr>
 
  ## <img src= "images/README.MD_images/trophy_icon.png" alt="trophy icon"> Our Team
