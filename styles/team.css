@@ -104,7 +104,7 @@ header
     justify-content: center;
     display: flex;
 }
-/* Give the "main_div" position him. */
+/* Give the "main_div" position it. */
 
 .main_text
 {
@@ -161,38 +161,38 @@ header
 }
 /* Give the "Developer2" size, color and position. */
 
-#Ceco
+#Cvetan
 {
     padding-left: 8rem;
     height: 0.1rem;
 
 }
-/* Give the "Ceco" position. */
+/* Give the "Cvetan" position. */
 
-#Miro
+#Miroslav
 {
     padding-left: 32rem;
     height: 0.1rem;
 
 }
-/* Give the "Miro" position. */
+/* Give the "Miroslav" position. */
 
-#Toni
+#Anton
 {
     padding-left: 63rem;
     height: 0.1rem;
 
 }
-/* Give the "Toni" position. */
+/* Give the "Anton" position. */
 
-#Sashko
+#Alexander
 {
     padding-left: 96rem;
     margin-bottom: 2rem;
     height: 16rem;
 
 }
-/* Give the "Sashko" position. */
+/* Give the "Alexander" position. */
 
 footer
 {

@@ -74,7 +74,7 @@ body
     width: 5vw;
     margin-top: 2rem;
 }
-/* Position the logo in the top left corner and give him size. */
+/* Position the logo in the top left corner and give it size. */
 
 .nav_line
 {
@@ -97,7 +97,7 @@ header
     font-family: "consolas" , sans-serif;
     color: aliceblue;
 }
-/* Give the header size, style, color and position him. */
+/* Give the header size, style, color and position it. */
 
 header>p
 {
@@ -112,7 +112,7 @@ header>p
     justify-items: center;
     justify-content: center;
 }
-/* Give the "main_div" size, background color, position him and circle him. */
+/* Give the "main_div" size, background color, position it and circle it. */
 
 .main_text
 {
@@ -174,7 +174,7 @@ h3
 
     margin-left: 6vw;
 }
-/* Give the the "main_text" color, style, size and position him. */
+/* Give the the "main_text" color, style, size and position it. */
 
 .hr_line
 {

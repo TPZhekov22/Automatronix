@@ -75,7 +75,7 @@ body
     width: 5vw;
     margin-top: 2rem;
 }
-/* Position the logo in the top left corner and give him size. */
+/* Position the logo in the top left corner and give it size. */
 
 .nav_line
 {
@@ -99,7 +99,7 @@ header
     font-family: "consolas" , sans-serif;
     color: aliceblue;
 }
-/* Give the header size, style, color and position him. */
+/* Give the header size, style, color and position it. */
 
 .main_div
 {
@@ -107,7 +107,7 @@ header
     justify-content: center;
     display: flex;
 }
-/* Give the "main_div" position him. */
+/* Give the "main_div" position it. */
 
 .main_text
 {
@@ -130,7 +130,7 @@ header
 
     margin-left: 28vw;
 }
-/* Give the "image1" position and circle him. */
+/* Give the "image1" position and circle it. */
 
 #image2
 {
@@ -140,7 +140,7 @@ header
     margin-left: -10vw;
     margin-top: 10vw;
 }
-/* Give the "image2" position and circle him. */
+/* Give the "image2" position and circle it. */
 
 footer
 {
